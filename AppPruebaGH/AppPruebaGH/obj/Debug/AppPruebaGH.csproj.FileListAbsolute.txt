@@ -8,3 +8,12 @@ C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj
 C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.csproj.GenerateResource.Cache
 C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.exe
 C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.pdb
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.exe.config
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.exe
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.pdb
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.exe
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.pdb
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.csprojResolveAssemblyReference.cache
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.Form1.resources
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.Properties.Resources.resources
+C:\Users\Enrique Heredia\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.csproj.GenerateResource.Cache
