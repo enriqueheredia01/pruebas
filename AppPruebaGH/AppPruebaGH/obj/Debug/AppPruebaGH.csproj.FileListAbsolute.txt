@@ -1,0 +1,10 @@
+c:\users\enriq\documents\visual studio 2015\Projects\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.exe.config
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.exe.config
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.exe
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\bin\Debug\AppPruebaGH.pdb
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.csprojResolveAssemblyReference.cache
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.Form1.resources
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.Properties.Resources.resources
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.csproj.GenerateResource.Cache
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.exe
+C:\Users\enriq\Source\Repos\enriqueheredia01\pruebas\AppPruebaGH\AppPruebaGH\obj\Debug\AppPruebaGH.pdb
