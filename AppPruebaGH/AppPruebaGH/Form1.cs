@@ -19,7 +19,7 @@ namespace AppPruebaGH
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola");
+            MessageBox.Show("Hola modificado 2");
         }
 
         private void button2_Click(object sender, EventArgs e)
