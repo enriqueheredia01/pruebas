@@ -34,6 +34,11 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -92,11 +97,61 @@
             this.button6.Text = "Agregue un boton";
             this.button6.UseVisualStyleBackColor = true;
             // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(257, 215);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(155, 23);
+            this.button7.TabIndex = 10;
+            this.button7.Text = "Agregue un boton";
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(257, 186);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(155, 23);
+            this.button8.TabIndex = 9;
+            this.button8.Text = "Agregue un boton";
+            this.button8.UseVisualStyleBackColor = true;
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(257, 157);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(155, 23);
+            this.button9.TabIndex = 8;
+            this.button9.Text = "Agregue un boton";
+            this.button9.UseVisualStyleBackColor = true;
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(257, 99);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(155, 23);
+            this.button10.TabIndex = 7;
+            this.button10.Text = "Agregue un boton";
+            this.button10.UseVisualStyleBackColor = true;
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(257, 128);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(155, 23);
+            this.button11.TabIndex = 6;
+            this.button11.Text = "Agregue un boton";
+            this.button11.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(462, 261);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.button9);
+            this.Controls.Add(this.button10);
+            this.Controls.Add(this.button11);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -118,6 +173,11 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
     }
 }
 
